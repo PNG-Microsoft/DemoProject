@@ -1,0 +1,5 @@
+------------ This. is instructions for project-----------
+Step-1) Download and unzip the project file in a specific folder
+Step-2) Now you open uncompressed folder inside code editor.
+Step-3) Open .env file and config your database
+Step-4) Import data.sqlite file in phpmyadmin
